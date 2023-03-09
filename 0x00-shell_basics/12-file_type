@@ -1,6 +1,2 @@
 #!/bin/bash
-pwd
-cd
-cd /tmp
-file iamafile
-
+file /tmp/ iamafile
